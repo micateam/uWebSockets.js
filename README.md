@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/uNetworking/uWebSockets/master/misc/logo.svg" height="180" /><br>
 <br>
+</div>
 
 We aren't in the NPM registry but you can easily install it with the NPM client:
 * `npm install uNetworking/uWebSockets.js#v20.48.0`
